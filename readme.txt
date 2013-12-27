@@ -3,7 +3,7 @@ Contributors: podryna
 Donate link: http://www.socialears.com/
 Tags: Content SEO, Content Optimization, Blog SEO, Blog Title Generation, Social Analytics, SocialEars, Social Listening, Social Media, Social Media Analytics, Social Listening Analytics, Big Data Analytics, Real-time Social Listening Software, Influencer Analysis, Cloud Computing
 Requires at least: 3.0.1
-Tested up to: 3.6.1
+Tested up to: 3.8
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
