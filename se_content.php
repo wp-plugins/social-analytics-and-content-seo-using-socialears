@@ -3,7 +3,7 @@
 Plugin Name: SocialEars
 Plugin URI: http://www.socialears.com/socialears-wordpress-plugin/
 Description: SocialEars Content Analyzer and Blog Title Generator
-Version: 1.0.1
+Version: 1.0.2
 Author: SocialEars
 Author URI: http://www.socialears.com
 */

@@ -3,8 +3,8 @@ Contributors: podryna
 Donate link: http://www.socialears.com/
 Tags: Content SEO, Content Optimization, Blog SEO, Blog Title Generation, Social Analytics, SocialEars, Social Listening, Social Media, Social Media Analytics, Social Listening Analytics, Big Data Analytics, Real-time Social Listening Software, Influencer Analysis, Cloud Computing
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 1.0.1
+Tested up to: 3.8.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,13 +64,16 @@ You can easily create a free account at http://www.socialears.com/getting-starte
 
 = 1.0.1 =
 * Initial Release
-
+= 1.0.2 =
+* Compatibility update for older versions of WordPress
+* Testing with 3.8.1
 
 == Upgrade Notice ==
 
 = 1.0.1 =
 Initial Release
-
+= 1.0.2 =
+Compatibility update for older versions of WordPress, testing with 3.8.1
 
 == Arbitrary section ==
 
