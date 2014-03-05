@@ -3,12 +3,17 @@
 Plugin Name: SocialEars
 Plugin URI: http://www.socialears.com/socialears-wordpress-plugin/
 Description: SocialEars Content Analyzer and Blog Title Generator
-Version: 1.0.2
+Version: 1.0.4
 Author: SocialEars
 Author URI: http://www.socialears.com
 */
 
-wp_enqueue_script('content-analyze', '/wp-content/plugins/social_ears/js/functions.js');
+function se_config_js() {
+    echo '<script type="text/javascript">var SE_ASSET = "' . plugin_dir_url(__FILE__) . '"</script>';
+}
+// Add hook for admin <head></head>
+add_action('admin_head', 'se_config_js');
+wp_enqueue_script('content-analyze', plugin_dir_url(__FILE__) . 'js/functions.js');
 
 /**
  * Install default settings

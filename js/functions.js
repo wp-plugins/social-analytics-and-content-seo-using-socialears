@@ -2,6 +2,8 @@ jQuery(document).ready(function ($) {
     addTitleBtn();
     addAnalyzeBtn();
 
+    var SE_ASSET = SE_ASSET | '/wp-content/plugins/social-analytics-and-content-seo-using-socialears/';
+
     jQuery("#analyze_btn").click(function () {
 
         var analyze_url = jQuery("#analyze_url").val();
@@ -24,7 +26,7 @@ function addTitleBtn() {
     if (!holder.size() || !title_url)
         return;
 
-    var tpl = '<a style="margin-left:10px" class="button button-highlighted" target="_blank" href="' + title_url + '"><img alt="Social ears" style="margin: 0 6px -3px 0" src="/wp-content/plugins/social_ears/images/ears.png">Generate Title</a>'
+    var tpl = '<a style="margin-left:10px" class="button button-highlighted" target="_blank" href="' + title_url + '"><img alt="Social ears" style="margin: 0 6px -3px 0" src="' + SE_ASSET + 'images/ears.png">Generate Title</a>'
     holder.append(tpl);
 }
 
@@ -34,6 +36,6 @@ function addAnalyzeBtn() {
     if (!holder.size())
         return;
 
-    var tpl = '<div class="misc-pub-section"><input name="analyze" type="button" id="analyze_btn" style="float: right;margin-top: 15px" class="button button-primary button-large" value="Content SEO" /><img alt="Social ears logo" src="/wp-content/plugins/social_ears/images/logo.png"></div>';
+    var tpl = '<div class="misc-pub-section"><input name="analyze" type="button" id="analyze_btn" style="float: right;margin-top: 15px" class="button button-primary button-large" value="Content SEO" /><img alt="Social ears logo" src="' + SE_ASSET + 'images/logo.png"></div>';
     holder.before(tpl);
 }
