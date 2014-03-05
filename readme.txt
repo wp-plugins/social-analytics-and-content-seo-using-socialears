@@ -4,7 +4,7 @@ Donate link: http://www.socialears.com/
 Tags: Content SEO, Content Optimization, Blog SEO, Blog Title Generation, Social Analytics, SocialEars, Social Listening, Social Media, Social Media Analytics, Social Listening Analytics, Big Data Analytics, Real-time Social Listening Software, Influencer Analysis, Cloud Computing
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,26 +29,26 @@ When the buttons are pressed during a blog-post edit session, the content is aut
 Don't have a SocialEars login?  No problem.  On the login page, you can register for a free account. 
 
 **Social Media and the Changing Social Landscape**
-SocialEars is a SaaS social media analytics tool-suite specifically designed to improve the effectiveness of *Inbound Marketing* and *Content Marketing *strategies.  Recent changes to search engine scoring algorithms have dramatically hampered the 'quick-fix' search engine<a href="http://www.socialears.com/wp-content/uploads/2013/01/SE-logo-with-words.png"><img class="size-full wp-image-163 alignright" alt="SE logo with words" src="http://www.socialears.com/wp-content/uploads/2013/01/SE-logo-with-words.png" width="241" height="75" /></a> optimization (SEO) techniques that have been used for over a decade.  Major search engine providers are now rewarding quality content with higher organic search. This has brought shift away from SEO towards using quality content as a means to increase search scoring.
+SocialEars is a SaaS social media analytics tool-suite specifically designed to improve the effectiveness of *Inbound Marketing* and *Content Marketing* strategies. Recent changes to search engine scoring algorithms have dramatically hampered the 'quick-fix' search engine<a href="http://www.socialears.com/wp-content/uploads/2013/01/SE-logo-with-words.png"><img class="size-full wp-image-163 alignright" alt="SE logo with words" src="http://www.socialears.com/wp-content/uploads/2013/01/SE-logo-with-words.png" width="241" height="75" /></a> optimization (SEO) techniques that have been used for over a decade. Major search engine providers are now rewarding quality content with higher organic search. This has brought shift away from SEO towards using quality content as a means to increase search scoring.
 
-Changing to [Content Based Marketing](http://www.socialears.com/2012/11/seo-is-dead-how-do-you-promote-great-content/ "SEO is dead. How do you promote great content?") isn't so easy.  As everyone quickly finds out, it's not enough to just post some blogs, white papers, and webinars to a website.  The marketing effort needs to engage with the ongoing social conversations.  Without this, you're just sitting in the corner not being discovered.  Traffic never increases.  It's no wonder that Content Marketing strategies take 7+ months to show results.
+Changing to [Content Based Marketing](http://www.socialears.com/2012/11/seo-is-dead-how-do-you-promote-great-content/ "SEO is dead. How do you promote great content?") isn't so easy. As everyone quickly finds out, it's not enough to just post some blogs, white papers, and webinars to a website. The marketing effort needs to engage with the ongoing social conversations. Without this, you're just sitting in the corner not being discovered. Traffic never increases. It's no wonder that Content Marketing strategies take 7+ months to show results.
 
 The key to a successful content marketing strategy is
-* Find the topics in your Topic space that online Social Voices are talking about, providing opportunities for <a title="What’s Topicjacking?" href="http://www.socialears.com/whats-topicjacking/">Topicjacking</a>
+* Find the topics in your Topic space that online Social Voices are talking about, providing opportunities for <a title="What's Topicjacking?" href="http://www.socialears.com/whats-topicjacking/">Topicjacking</a>
 * Identify the Social Voices that are most influential in your specific topic space
 * Engaging in those conversations in a way that includes your content
 
 SocialEars is specifically designed to assist you in meeting these goals, bringing you higher quality leads and a more educated 'ready-to-buy' customer.
 
 **Discovering the Social Voices that matter to you**
-SocialEars has introduced a revolutionary improvement in the Social Media Analytics space.  For the first time, you can define your own specific analytical domain using  SocialEars’ newest *voice discovery* technology. By naming a few topics to focus on, you as the user can define where SocialEars should listen.  This brings the following benefits directly to you:
+SocialEars has introduced a revolutionary improvement in the Social Media Analytics space. For the first time, you can define your own specific analytical domain using SocialEars newest *voice discovery* technology. By naming a few topics to focus on, you as the user can define where SocialEars should listen. This brings the following benefits directly to you:
 
-* Full *monitoring *and *trend analysis* in your specific interest space.  Discover trending topics allowing you to join and influence the conversation early.
+* Full *monitoring *and *trend analysis* in your specific interest space. Discover trending topics allowing you to join and influence the conversation early.
 * Influencer discovery and ranking* showing who is driving the conversations specific to your company.
-* By including your competition in your sphere of analysis, SocialEars can tell you how your *Online Content* and *Conversations* stack up against your competition, providing keen insight on how to improve your rankings.
+* By including your competition in your sphere of analysis, SocialEars can tell you how your *Online Content* and *Conversations* stack up against your competition, providing keen insight on how to improve your rankings.
 * Engagement analysis* providing very specific steps in the Twitter, Facebook, LinkedIn, and Blogging domains on how you **Engage!**
 
-We call this capability ***Automatic Voice Discovery (AVD)*** and joins the proven power of the SocialEars big-data analytics engine with the ability to target and tune the product to *your specific domain*.
+We call this capability ***Automatic Voice Discovery (AVD)*** and joins the proven power of the SocialEars big-data analytics engine with the ability to target and tune the product to *your specific domain*.
 
 == Frequently Asked Questions ==
 
@@ -67,6 +67,8 @@ You can easily create a free account at http://www.socialears.com/getting-starte
 = 1.0.2 =
 * Compatibility update for older versions of WordPress
 * Testing with 3.8.1
+= 1.0.3 =
+* Image paths correction
 
 == Upgrade Notice ==
 
@@ -74,6 +76,8 @@ You can easily create a free account at http://www.socialears.com/getting-starte
 Initial Release
 = 1.0.2 =
 Compatibility update for older versions of WordPress, testing with 3.8.1
+= 1.0.3 =
+* Image paths correction
 
 == Arbitrary section ==
 
