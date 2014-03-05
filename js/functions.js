@@ -2,7 +2,7 @@ jQuery(document).ready(function ($) {
     addTitleBtn();
     addAnalyzeBtn();
 
-    var SE_ASSET = SE_ASSET | '';
+    var SE_ASSET = SE_ASSET | '/wp-content/plugins/social-analytics-and-content-seo-using-socialears/';
 
     jQuery("#analyze_btn").click(function () {
 
