@@ -20,6 +20,7 @@ SocialEars is a radically different approach to social analytics software. By go
 This helps you listen to the right conversations, discover the influencers in your space, and engage with the people and influencers that that will best assist you in your inbound and content marketing activities.
 
 Learn more at http://www.socialears.com
+
 == Installation ==
 **The SocialEars WordPress plugin is easy to install and activate
 Just use the standard WordPress plugin downloader, and activate the plugin via the 'Plugins' menu in WordPress.  That's all!  Once activated the SocialEars control buttons will become visible in the Page and Blog Post edit pages.
