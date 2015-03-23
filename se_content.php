@@ -13,7 +13,7 @@ function se_config_js() {
 }
 // Add hook for admin <head></head>
 add_action('admin_head', 'se_config_js');
-wp_enqueue_script('content-analyze', plugin_dir_url(__FILE__) . 'js/functions.js');
+wp_enqueue_script('content-analyze', plugin_dir_url(__FILE__) . 'js/functions.js', array('jquery'));
 
 /**
  * Install default settings
