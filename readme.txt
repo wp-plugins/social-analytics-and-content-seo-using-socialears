@@ -3,8 +3,8 @@ Contributors: podryna
 Donate link: http://www.socialears.com/
 Tags: Content SEO, Content Optimization, Blog SEO, Blog Title Generation, Social Analytics, SocialEars, Social Listening, Social Media, Social Media Analytics, Social Listening Analytics, Big Data Analytics, Real-time Social Listening Software, Influencer Analysis, Cloud Computing
 Requires at least: 3.0.1
-Tested up to: 3.8.1
-Stable tag: 1.0.4
+Tested up to: 4.1.1
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,6 +71,8 @@ You can easily create a free account at http://www.socialears.com/getting-starte
 * Image paths correction
 = 1.0.4 =
 * Correct plugin folder name
+= 1.0.5 =
+* Added jQuery dependency
 
 
 == Upgrade Notice ==
@@ -83,6 +85,8 @@ Compatibility update for older versions of WordPress, testing with 3.8.1
 * Image paths correction
 = 1.0.4 =
 * Correct plugin folder name
+= 1.0.5 =
+* Added jQuery dependency
 
 == Arbitrary section ==
 
